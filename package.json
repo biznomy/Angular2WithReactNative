@@ -16,8 +16,9 @@
     "react-native"
   ],
   "contributors": [
-    "Ajay Saini <ajay.tlabs@gmail.com>",
-    "Marc Laval <mlaval@amadeus.com>"
+    "Scott Little <uber5001@gmail.com>",
+    "Marc Laval <mlaval@amadeus.com>",
+    "Ajay Saini <ajay.tlabs@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
